@@ -1,24 +1,24 @@
 # 字串
 
 ```
-1.print("3*2*(17-2)")會印出甚麼結果:
+(D)1.print("3*2*(17-2)")會印出甚麼結果:
 (A)0   (B)90  (C)出現錯誤,無法印出  (D)3*2*(17-2)
 
-2.print(3*2*(17-2))會印出甚麼結果:
+(B)2.print(3*2*(17-2))會印出甚麼結果:
 (A)0   (B)90  (C)出現錯誤,無法印出  (D)3*2*(17-2)
 
-3.print("abc""+""def")會印出甚麼結果:
+(B)3.print("abc""+""def")會印出甚麼結果:
 (A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)abcdef
 
-4.print("abc"+"def")會印出甚麼結果:
+(D)4.print("abc"+"def")會印出甚麼結果:
 (A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)abcdef
 
-5.底下程式執行後結果為何?
+(C)5.底下程式執行後結果為何?
 word = "arttarataaa"
 print(word.replace("a", "z",3))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
 
-6.底下程式執行後結果為何?
+(D)6.底下程式執行後結果為何?
 word = "arttarataaa"
 print(word.replace("a", "z"))
 (A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
@@ -29,10 +29,15 @@ print(sentence.upper())
 print(sentence.lower())
 print(sentence.capitalize())
 print(sentence.count('o'))
+答案:
+TO BE OR NOT TO BE: THAT IS THE QUESTION: 
+to be or not to be: that is the question: 
+To be or not to be: that is the question: 
+4
 ```
 ### while loop
 ```
-7根據底下程式,下列敘述何者為非?[複選題]
+(B)(D)7根據底下程式,下列敘述何者為非?[複選題]
 
 names = ['龍', '聖']
 index = 0
